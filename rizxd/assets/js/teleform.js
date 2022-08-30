@@ -53,11 +53,11 @@ document
         mail +
         "%0A<b>Message:</b> " +
         message +
-        "%0A%0AQueries : @riz4d";
+        "%0A%0AQueries : @king_pk";
 
   
-      var bot_token = "12345678:AAAAAABBBBCCCCC-ddddd45"; // your telegram bot token
-      var chat_id = 987456321;//your telegram chat id
+      var bot_token = "5591602826:AAHD6Z__JtES5_P1IB4mSFOHbgdPci3pqvs"; // your telegram bot token
+      var chat_id = 874272324;//your telegram chat id
 
    
       var url =
